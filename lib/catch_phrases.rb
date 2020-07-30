@@ -17,4 +17,4 @@ link
 def all_phrases
   puts #{phrase} #{status} #{quote} 
 end 
-all_phrases(link) 
+all_phrases(mario toadstool link)
